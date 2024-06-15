@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.vscode/
+__pycache__
+.venv/
+poetry.lock
+test-report.xml
